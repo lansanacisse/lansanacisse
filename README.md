@@ -11,10 +11,11 @@ Master's student in Statistics and Computer Science for Data Science (SISE) at U
 - 🌱 Explore new technologies
 
 ## 🛠 Tech Stack
-- **Data Science**: Python, R, Machine Learning
+- **Data Science**: Python, R, Machine Learning, Deep Learning
 - **Big Data**: Hadoop, Spark
 - **Tools**: Git, Docker, ETL
-- **Visualization**: Data Storytelling
+- **Visualization**: PowerBI, Tableau, Qlik
+- **Cloud**: Google Cloud, Microsoft Fabric, Azure
 
 ## 🎯 Current Focus
 - 🔄 MLOps best practices
@@ -24,4 +25,3 @@ Master's student in Statistics and Computer Science for Data Science (SISE) at U
 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lansana-cisse/)
-
