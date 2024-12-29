@@ -1,32 +1,36 @@
-Hi, I'm **Lansana CISSE**! 🎉
+# Lansana CISSE
+### 👋 Data Scientist | ML Engineer 
 
-## About Me 🌍
-- 🎓 Master's student in Computer Science / Statistics and Computer Science for Data Science (SISE) at **Université Lumière Lyon 2**.
-- 🌟 Advanced training in **data science**, combining **statistics**, **machine learning**, and **big data technologies**.
-- 🚀 Goal: To become a **Data Scientist**, specializing in **big data analysis** and **artificial intelligence**.
-- ✈️ Internship planned at **Airbus**.
+## 🚀 About Me
+Master's student in Statistics and Computer Science for Data Science (SISE) at Université Lumière Lyon 2. I transform complex data into actionable insights and build intelligent solutions. Fascinated by the intersection of statistics and artificial intelligence, I'm on a journey to push the boundaries of what's possible with data.
 
-## 🔧 Recent GitHub Projects
-- **[MNLM](https://github.com/lansanacisse/MNLM)**: Development of an R package for advanced analysis.
-- **[Iris Predictor MLOps](https://github.com/lansanacisse/iris-predictor-mlops)**: An MLOps project using predictive models on the renowned Iris dataset.
+## 🎯 What I Do
+- 📊 Turn messy data into meaningful stories
+- 🤖 Develop machine learning models that solve real problems
+- 📈 Create beautiful and insightful data visualizations
+- 🌱 Constantly learning and exploring new technologies
 
-## 🌟 Skills
-- Statistical Analysis
-- Data Modeling
-- Machine Learning
-- Big Data Processing
-- Programming in Python and R
-- Time Series Analysis
-- Big Data Technologies: Hadoop, Spark
-- Data Visualization and ETL Tools
+## 🛠️ Tech Arsenal
+- **Data Science**: Python, R, Machine Learning, Deep Learning
+- **Big Data**: Hadoop, Spark, Distributed Computing
+- **Tools**: Git, Docker, ETL pipelines
+- **Visualization**: Creating stories through data art
 
-## 🔗 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/) *(link to be added)*
-- 📝 [Portfolio](#) *(link to be added)*
+## 🌟 Passions
+- Exploring AI frontiers and their real-world applications
+- Building scalable data solutions
+- Contributing to open-source projects
+- Sharing knowledge and learning from the community
 
-## ✨ Interests
-- Artificial Intelligence
-- Big Data and Cloud Technologies
-- Data Analysis and Visualization
+## 🎯 Current Focus
+- Deep diving into MLOps best practices
+- Mastering cloud-native data architectures
+- Building my portfolio with impactful projects
+- Exploring cutting-edge ML research
 
-Thank you for visiting my profile! Feel free to explore my projects or contact me for collaborations. 🤝
+## 🤝 Let's Connect
+I'm always excited to collaborate on interesting data projects or discuss the latest in tech!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lansana-cisse/)
+
+
