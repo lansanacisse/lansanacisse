@@ -11,11 +11,11 @@ Master's student in Statistics and Computer Science for Data Science (SISE) at U
 - 🌱 Explore new technologies
 
 ## 🛠 Tech Stack
-- **Data Science**: Python, R, Machine Learning, Deep Learning
-- **Big Data**: Hadoop, Spark
-- **Tools**: Git, Docker, ETL
-- **Visualization**: PowerBI, Tableau, Qlik
-- **Cloud**: Google Cloud, Microsoft Fabric, Azure
+- 🧮 **Data Science**: Python, R, Machine Learning, Deep Learning
+- 📦 **Big Data**: Hadoop, Spark
+- ⚙️ **Tools**: Git, Docker, ETL
+- 📊 **Visualization**: PowerBI, Tableau, Qlik
+- ☁️ **Cloud**: Google Cloud, Microsoft Fabric, Azure
 
 ## 🎯 Current Focus
 - 🔄 MLOps best practices
