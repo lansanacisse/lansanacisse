@@ -1,5 +1,5 @@
 # Lansana CISSE
-### 👨‍💻 Data Scientist | ML Engineer 
+### 👨‍💻 Data Scientist | Data Engineer 
 
 ## 🚀 About Me
 Master's student in Statistics and Computer Science for Data Science (SISE) at Université Lumière Lyon 2. I transform complex data into actionable insights and build intelligent solutions. Passionate about statistics and artificial intelligence.
