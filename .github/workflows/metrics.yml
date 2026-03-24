@@ -3,6 +3,7 @@ name: Metrics
 on:
   schedule:
     - cron: "10 14 * * *"
+  workflow_dispatch:
 
 jobs:
   github-metrics:
