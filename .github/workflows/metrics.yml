@@ -2,7 +2,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 6 * * 1"
+    - cron: "10 14 * * *"
 
 jobs:
   github-metrics:
